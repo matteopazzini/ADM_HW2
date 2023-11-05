@@ -1,0 +1,2 @@
+
+time jq -r '. | {id, title, total_books_count: [.works[]| (.books_count | tonumber)] | add}' series.json | jq -s 'sort_by(-.total_books_count) | .[:5] | .[] | "ID:\(.id) | TITLE:\(.title) | TOTAL_BOOKS_COUNT:\(.total_books_count)"'
