@@ -3,7 +3,7 @@
 
 **Students:**
 
-- Di Giammarco - 1838403 - digiammarco.1838403@studenti.uniroma1.it
+- Di Giammarco Susanna - 1838403 - digiammarco.1838403@studenti.uniroma1.it
 - Pazzini Matteo - 1868953 -pazzini.1868953@studenti.uniroma1.it
 - Satarova Begaiym - 2056861 - satarova.2056861@studenti.uniroma1.it
 
