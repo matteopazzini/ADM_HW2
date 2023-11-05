@@ -19,3 +19,5 @@ We uploaded different files:
 - *list_script.py*: AWS Question
 
 -----------------------
+
+PLEASE NOTE: Some images might not be visible so here are the screenshots
