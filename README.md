@@ -20,4 +20,4 @@ We uploaded different files:
 
 -----------------------
 
-PLEASE NOTE: Some images might not be visible so here are the screenshots
+PLEASE NOTE: Some images might not be visible so there is a specific folder with them
